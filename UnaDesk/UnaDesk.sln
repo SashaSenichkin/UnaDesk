@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trigonometry", "Trigonometry\Trigonometry.csproj", "{487DB30F-6F1E-48A7-955D-6ED46BB38468}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrigonometryTest", "TrigonometryTest\TrigonometryTest.csproj", "{E46CAC7D-4003-4C79-9AEC-2B836156C75D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{487DB30F-6F1E-48A7-955D-6ED46BB38468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487DB30F-6F1E-48A7-955D-6ED46BB38468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487DB30F-6F1E-48A7-955D-6ED46BB38468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487DB30F-6F1E-48A7-955D-6ED46BB38468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E46CAC7D-4003-4C79-9AEC-2B836156C75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E46CAC7D-4003-4C79-9AEC-2B836156C75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E46CAC7D-4003-4C79-9AEC-2B836156C75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E46CAC7D-4003-4C79-9AEC-2B836156C75D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
